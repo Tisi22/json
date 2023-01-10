@@ -1,0 +1,9 @@
+{
+  "name": "PNS",
+  "description": "Polygon Name Service",
+  "external_url": "",
+  "image": "https://gateway.lighthouse.storage/ipfs/QmQHiSooVvgCxjQPx6RNaSyLhjuKqJKHxSyxFVdNW8EJD6",
+  "attributes": [
+    { "trait_type": "SBNFT", "value": "Soul Bound Gift" }
+  ]
+}
