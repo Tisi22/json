@@ -1,7 +1,7 @@
 {
   "name": "Cantoverse",
   "description": "Cantoverse NFT DAO",
-  "image": "https://gateway.lighthouse.storage/ipfs/QmdxxT2eQFHksTpzDdnSvZYBTXdPsFD6o83VDfwX7fREU9",
+  "image": "https://gateway.lighthouse.storage/ipfs/QmZJ9c8rZjhsbWHmnmEwURakuUc8HLurH69MZXjt99Us2b",
   "dna": "49c1162550b642114b23dfe38b7c13c545fc1f56",
   "edition": 1,
   "date": 1652193860355,
@@ -23,5 +23,5 @@
       "value": "Yarn"
     }
   ],
-  "animation_url": "https://gateway.lighthouse.storage/ipfs/QmQwcEqdkKNniTUasTfn3Xk8Qc2VJ8yN6agHRLsAhTwj37"
+  "animation_url": "https://gateway.lighthouse.storage/ipfs/QmbSmUvTDAwoTfT51Rjuude3rrnNBARoHV7iyJN1fV4Uaa"
 }
