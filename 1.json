@@ -1,0 +1,14 @@
+[
+    {
+        "id": "1",
+        "name": "Cantoverse Item",
+        "image": "https://gateway.lighthouse.storage/ipfs/QmSpnwYTqVqKKSXZEVu3SYX9GpL5NTWetDZiYp9ES21XWH/1.png",
+        "description": "Cappy",
+        "attributes": [
+            {
+              "trait_type": "Head",
+              "value": "Cap"
+            }
+          ]
+    }
+]
