@@ -1,0 +1,14 @@
+[
+    {
+        "id": "7",
+        "name": "Cantoverse Item",
+        "image": "https://gateway.lighthouse.storage/ipfs/QmdX5C16q5wKktuUK3bj4Qaezw64muRQzNGQ7ezqLdpazZ/2.png",
+        "description": "Human, please!",
+        "attributes": [
+            {
+              "trait_type": "Body",
+              "value": "Shirt"
+            }
+          ]
+    }
+]
