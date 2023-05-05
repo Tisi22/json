@@ -1,0 +1,14 @@
+[
+    {
+        "id": "3",
+        "name": "Cantoverse Item",
+        "image": "https://gateway.lighthouse.storage/ipfs/QmSpnwYTqVqKKSXZEVu3SYX9GpL5NTWetDZiYp9ES21XWH/3.png",
+        "description": "Am I hipster?",
+        "attributes": [
+            {
+              "trait_type": "Head",
+              "value": "Cap"
+            }
+          ]
+    }
+]
