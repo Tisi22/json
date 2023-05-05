@@ -1,0 +1,14 @@
+[
+    {
+        "id": "6",
+        "name": "Cantoverse Item",
+        "image": "https://gateway.lighthouse.storage/ipfs/QmdX5C16q5wKktuUK3bj4Qaezw64muRQzNGQ7ezqLdpazZ/1.png",
+        "description": "An all time classic",
+        "attributes": [
+            {
+              "trait_type": "Body",
+              "value": "Shirt"
+            }
+          ]
+    }
+]
