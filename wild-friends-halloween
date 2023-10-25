@@ -1,0 +1,24 @@
+{
+  "id": "1",
+  "name": "Bat - Halloween 2023",
+  "description": "Happy Halloween! Bats, often overlooked and misunderstood, play a vital role as pollinators in ecosystems worldwide. Their nocturnal habits and unique adaptations make them indispensable for the reproduction of various plants, including economically important crops like bananas, mangoes, and tequila-producing agave plants. These \"flying gardeners\" contribute to the genetic diversity of plant populations, maintaining ecosystem balance. The loss of bat populations due to habitat destruction and disease has far-reaching consequences, impacting crop yields, food security, and natural habitats. Recognizing the importance of bats as pollinators and taking steps to protect their populations is crucial for ecosystem health and human well-being.",
+  "image": "https://bafybeiakqfrg6fcgzs45ghyrsr7wdphesueh3lgsnqwmzhz3f3vjtcto6m.ipfs.w3s.link/Halloween2023.jpg",
+  "attributes": [
+      {
+        "trait_type": "Sanctuary",
+        "value": "Senda Verde"
+      },
+      {
+        "trait_type": "Festivity",
+        "value": "Halloween"
+      },
+      {
+        "trait_type": "Year",
+        "value": "2023"
+      },
+      {
+        "trait_type": "Species",
+        "value": "Bat"
+      }
+    ]
+}
