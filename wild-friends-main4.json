@@ -1,0 +1,12 @@
+{
+  "id": "4",
+  "name": "Mijungla",
+  "description": "Hello, I am MiJungla! A female jaguar from the Bolivian Amazon. I arrived to La Senda Verde on December 13th, 2018. I was a 3-month-old cub. A kind-hearted family found me abandoned and dying in the jungle. I was very weak, with blows in my head and body, fainted and infested with maggots all over my skin. I was alone and scared, given that poachers had killed my mother. That family saved me, cured my wounds and feed me for three weeks. Once I arrived to La Senda Verde, several medical tests were performed. My rear right knee was fractured, I had tendonitis in my right hand, and atrophied muscles in my legs and hip. Since then, I have been rehabilitating in the clinic of the refuge following a rigorous treatment and recovering from my wounds.",
+  "image": "https://gateway.lighthouse.storage/ipfs/QmVFR7ZZ6V3Zw1BV7BrdEfya5xGj86i7oLKhG9usCbJ976",
+  "attributes": [
+      {
+        "trait_type": "Sanctuary",
+        "value": "Senda Verde"
+      }
+    ]
+}
