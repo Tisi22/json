@@ -1,0 +1,12 @@
+{
+  "id": "5",
+  "name": "Coco",
+  "description": "Caimans are very similar to alligators but differ from them because of the bony plates they have on their skin called osteoderms. These osteoderms offer them protection and this species features very peculiar osteoderms on top of their eyes that give them the appearance of having spectacles, a feature they share with their northern relatives the spectacled caimans. Yacare caimans are the largest of all species of caimans in the Americas, reaching up to 3 meters in length. They have short strong limbs, a long snout with a round end, teeth that are easily seen with their mouth closed and a long tail which comprises 30% of their total weight. They are born of a yellow colour and mature to a dark greenish-yellow and black coloration when they are sexually mature, when they are around 4 years of age.",
+  "image": "https://gateway.lighthouse.storage/ipfs/QmSxhQbBqk2SbiG32uVEaMxsKVhfVK5dDrP3CeseRWweez",
+  "attributes": [
+      {
+        "trait_type": "Sanctuary",
+        "value": "Senda Verde"
+      }
+    ]
+}
