@@ -1,0 +1,12 @@
+{
+  "id": "3",
+  "name": "Chuñito",
+  "description": "Red brockets are the largest of the genus of brocket deer, comprising 11 different species. Their name is accurate in describing the color that may stand out the most, though their heads and necks are greyish brown and the inner side of the thighs, ears, throat and tail are white. They have long ears, the juveniles are born with white spots that disappear when they grow adult. Female brockets don’t have any antlers and male ones have small spikes that are used to defend themselves from predators. Males tend to be larger than females.",
+  "image": "https://gateway.lighthouse.storage/ipfs/QmVz5p1cdGzrvrwPWdZTH2qgirL3kPYkHwbfJDfD6EJxLu",
+  "attributes": [
+      {
+        "trait_type": "Sanctuary",
+        "value": "Senda Verde"
+      }
+    ]
+}
