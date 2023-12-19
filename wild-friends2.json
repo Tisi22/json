@@ -1,0 +1,24 @@
+{
+  "id": "2",
+  "name": "Wild Friends Christmas 2023",
+  "description": "Red Brockets: Christmas' Unsung Heroes - As we revel in the festive spirit, let's recognize the overlooked heroes of our forests, the Red Brockets. Just as Santa's reindeer are revered symbols of this season, these deer quietly contribute to our ecosystem by dispersing seeds and nurturing forest diversity. This Christmas, let's honor and safeguard their habitats, ensuring a thriving environment for all creatures.",
+  "image": "https://gateway.lighthouse.storage/ipfs/QmXSduf4aoxF4ghFAcLeBYe13Q6JXhwjxABGFyGeoHctgt",
+  "attributes": [
+      {
+        "trait_type": "Sanctuary",
+        "value": "Senda Verde"
+      },
+      {
+        "trait_type": "Festivity",
+        "value": "Christmas"
+      },
+      {
+        "trait_type": "Year",
+        "value": "2023"
+      },
+      {
+        "trait_type": "Species",
+        "value": "Deer"
+      }
+    ]
+}
